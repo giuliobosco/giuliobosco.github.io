@@ -3,6 +3,16 @@
 	src: url("../fonts/KohinoorBangla/KohinoorBangla-Regular.ttf");
 }
 
+@font-face {
+	font-family: "Franklin Gothic Book Regular";
+	src: url("../fonts/franklin_gothic_book_regular.ttf");
+}
+
+@font-face {
+	font-family: "Franklin Gothic Demi";
+	src: url("../fonts/ITCFranklinGothicDemi/FranklinGothic-Demi.ttf");
+}
+
 html, body {
 	width: 100%;
 	height: 100%;
@@ -11,6 +21,7 @@ html, body {
 	padding: 0;
 
 	background-color: #ffbf4d;
+	font-family: "Franklin Gothic Book Regular";
 }
 
 .view {
@@ -30,6 +41,34 @@ h1 {
 	font-family: "Kohinoor Bangla Regular";
 }
 
+h2 {
+	font-size: 45px;
+}
+
+h2 strong {
+	font-family: "Franklin Gothic Demi";
+}
+
 .view .arrow {
 	width: 60px;
+}
+
+.buttons {
+	position: absolute;
+	width: 30%;
+	left: 35%;
+}
+
+.buttons .button {
+	width: 50%;
+	float: left;
+	padding: 30px;
+}
+
+.buttons .button p {
+	padding: 7px;
+	border-radius: 10px;
+	background-color: #cccccc;
+	font-size: 25px;
+	box-shadow: 5px 5px #848484;
 }
