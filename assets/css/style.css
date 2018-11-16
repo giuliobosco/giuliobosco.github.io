@@ -22,6 +22,7 @@ html, body {
 
 	background-color: #ffbf4d;
 	font-family: "Franklin Gothic Book Regular";
+	overflow-x: hidden;
 }
 
 .view {
@@ -42,6 +43,11 @@ h1 {
 }
 
 h2 {
+	font-size: 52px;
+	font-family: "Kohinoor Bangla Regular";
+}
+
+h3 {
 	font-size: 45px;
 }
 
@@ -71,4 +77,36 @@ h2 strong {
 	background-color: #cccccc;
 	font-size: 25px;
 	box-shadow: 5px 5px #848484;
+}
+
+.portfolio {
+	position: absolute;
+	left: 0;
+	margin-top: 10%;
+}
+
+.portfolio article img {
+	width: 100%;
+
+	-webkit-transition: transform 500ms, width 500ms;
+	-moz-transition: transform 500ms, width 500ms;
+	-ms-transition: transform 500ms, width 500ms;
+	-o-transition: transform 500ms, width 500ms;
+	transition: transform 500ms, width 500ms;
+}
+
+.portfolio article:hover img {
+	width: 110%;
+	
+	-webkit-transform: translate(-5%);
+	-moz-transform: translate(-5%);
+	-ms-transform: translate(-5%);
+	-o-transform: translate(-5%);
+	transform: translate(-5%);
+
+	-webkit-transition: transform 500ms, width 500ms;
+	-moz-transition: transform 500ms, width 500ms;
+	-ms-transition: transform 500ms, width 500ms;
+	-o-transition: transform 500ms, width 500ms;
+	transition: transform 500ms, width 500ms;
 }
