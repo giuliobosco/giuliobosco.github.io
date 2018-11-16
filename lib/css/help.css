@@ -194,3 +194,7 @@
 
     .d { display: none; }
 }
+
+.col-lg-offset-05 {
+    margin-left: 4.15151515%;
+}
