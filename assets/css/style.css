@@ -85,6 +85,10 @@ h2 strong {
 	margin-top: 10%;
 }
 
+article {
+	margin-top: 50px;
+}
+
 .portfolio article img {
 	width: 100%;
 
@@ -109,4 +113,17 @@ h2 strong {
 	-ms-transition: transform 500ms, width 500ms;
 	-o-transition: transform 500ms, width 500ms;
 	transition: transform 500ms, width 500ms;
+}
+
+.portfolio article .button {
+	margin-top: 40px;
+	text-align: center;
+}
+
+.portfolio article .button a {
+	padding: 7px;
+	border-radius: 10px;
+	background-color: #cccccc;
+	font-size: 25px;
+	box-shadow: 5px 5px #848484;
 }
