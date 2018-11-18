@@ -198,3 +198,19 @@
 .col-lg-offset-05 {
     margin-left: 4.15151515%;
 }
+
+.col-md-offset-05 {
+    margin-left: 4.15151515%;
+}
+
+@media screen and (max-width: 1200px) {
+    .col-lg-offset-05 {
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 911px) {
+    .col-md-offset-05 {
+        margin-left: 0;
+    }
+}
