@@ -127,3 +127,15 @@ article {
 	font-size: 25px;
 	box-shadow: 5px 5px #848484;
 }
+
+@media screen and (max-width: 911px) {
+	.portfolio {
+		padding: 60px;
+	}
+}
+
+@media screen and (max-width: 425px) {
+	.portfolio {
+		padding: 30px;
+	}
+}
