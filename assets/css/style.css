@@ -115,6 +115,8 @@ article {
 	transition: transform 500ms, width 500ms;
 }
 
+.portfolio
+
 .portfolio article .button {
 	margin-top: 40px;
 	text-align: center;
@@ -138,4 +140,10 @@ article {
 	.portfolio {
 		padding: 30px;
 	}
+}
+
+/* ------------------------------------ opaquer */
+
+.opaquer .opaque {
+	opacity: 0;
 }
