@@ -1,3 +1,7 @@
 [submodule "themes/smol"]
 	path = themes/smol
 	url = https://github.com/colorchestra/smol.git
+[submodule "public"]
+	path = public
+	url = git@github.com:giuliobosco/giuliobosco.github.io.git
+	branch = master
