@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://giuliobosco.github.io/categories/</loc>
+    <loc>http://giuliobosco.github.io/</loc>
+    <lastmod>2020-08-05T07:47:19+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://giuliobosco.github.io/</loc>
+    <loc>http://giuliobosco.github.io/posts/my-second-post/</loc>
+    <lastmod>2020-08-05T07:47:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://giuliobosco.github.io/posts/</loc>
+    <lastmod>2020-08-05T07:47:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://giuliobosco.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-08-04T16:51:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://giuliobosco.github.io/categories/</loc>
   </url>
   
   <url>
