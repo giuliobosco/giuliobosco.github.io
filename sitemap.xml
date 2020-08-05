@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://giuliobosco.github.io/projects/cassi.ch/</loc>
+    <lastmod>2020-08-04T16:51:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://giuliobosco.github.io/education/</loc>
+    <lastmod>2020-08-04T16:51:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://giuliobosco.github.io/experiences/</loc>
+    <lastmod>2020-08-04T16:51:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://giuliobosco.github.io/experiences/first-experience/</loc>
+    <lastmod>2020-08-04T16:51:32+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://giuliobosco.github.io/</loc>
-    <lastmod>2020-08-05T07:47:19+02:00</lastmod>
+    <lastmod>2020-08-04T16:51:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://giuliobosco.github.io/posts/my-second-post/</loc>
-    <lastmod>2020-08-05T07:47:19+02:00</lastmod>
+    <loc>http://giuliobosco.github.io/projects/</loc>
+    <lastmod>2020-08-04T16:51:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://giuliobosco.github.io/posts/</loc>
-    <lastmod>2020-08-05T07:47:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://giuliobosco.github.io/posts/my-first-post/</loc>
+    <loc>http://giuliobosco.github.io/education/samt/</loc>
     <lastmod>2020-08-04T16:51:32+02:00</lastmod>
   </url>
   

@@ -1,32 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>giuliobosco.ch</title>
     <link>http://giuliobosco.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on giuliobosco.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2020 07:47:19 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 16:51:32 +0200</lastBuildDate>
     
 	<atom:link href="http://giuliobosco.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My Second Post</title>
-      <link>http://giuliobosco.github.io/posts/my-second-post/</link>
-      <pubDate>Wed, 05 Aug 2020 07:47:19 +0200</pubDate>
+      <title>cassi.ch - Project</title>
+      <link>http://giuliobosco.github.io/projects/cassi.ch/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
-      <guid>http://giuliobosco.github.io/posts/my-second-post/</guid>
-      <description>Hey Thats a hugo test</description>
+      <guid>http://giuliobosco.github.io/projects/cassi.ch/</guid>
+      <description>cassi.ch website</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>http://giuliobosco.github.io/posts/my-first-post/</link>
+      <title>First experience</title>
+      <link>http://giuliobosco.github.io/experiences/first-experience/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
-      <guid>http://giuliobosco.github.io/posts/my-first-post/</guid>
-      <description>Prova</description>
+      <guid>http://giuliobosco.github.io/experiences/first-experience/</guid>
+      <description>I had my first experience in Lugano.</description>
+    </item>
+    
+    <item>
+      <title>SAMT</title>
+      <link>http://giuliobosco.github.io/education/samt/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/education/samt/</guid>
+      <description>Information Thenology shool.</description>
     </item>
     
   </channel>
