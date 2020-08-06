@@ -1,5 +1,11 @@
 #!/bin/bash
 
+COMMIT_MESSAGE="update site content"
+
+if [ -n "$1" ]; then
+    COMMIT_MESSAGE=$1
+fi
+
 if [ ! -d "./public" ]; then
     git fetch origin gh-pages
     git checkout gh-pages
@@ -8,4 +14,4 @@ if [ ! -d "./public" ]; then
 fi
 
 hugo
-cd public && git add --all && git commit -m "Publishing to gh-pages" && git push && cd ..
+cd public && git add --all && git commit -m "$COMMIT_MESSAGE" && git push && cd ..
