@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on giuliobosco.ch</title>
+    <link>http://giuliobosco.github.io/experiences/</link>
+    <description>Recent content in Experiences on giuliobosco.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2020 16:51:32 +0200</lastBuildDate>
+    
+	<atom:link href="http://giuliobosco.github.io/experiences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First experience</title>
+      <link>http://giuliobosco.github.io/experiences/first-experience/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/first-experience/</guid>
+      <description>I had my first experience in Lugano.</description>
+    </item>
+    
+  </channel>
+</rss>
