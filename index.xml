@@ -17,16 +17,61 @@
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
       <guid>http://giuliobosco.github.io/projects/cassi.ch/</guid>
-      <description>cassi.ch website</description>
+      <description>Website: cassi.ch
+Project type: Website with CMS.
+Project tecnologies:
+ Frontend framework - Angular Handless CMS - Strapi CMS Containers - Docker  Project description:
+Integrate new CMS and front-end implementation using the design of cloak association.</description>
     </item>
     
     <item>
-      <title>First experience</title>
+      <title>domenicoshadlou.ch - Project</title>
+      <link>http://giuliobosco.github.io/projects/domenicoshadlou.ch/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/domenicoshadlou.ch/</guid>
+      <description>Website: domenicoshadlou.ch
+Project type: Basic Portfolio Webiste.
+Project tecnologies:
+ HTML5, CSS3, JS  Bootstrap jQuery  jQuery scrollify     NGINX Web Server  Project description:
+Implement the design of Domenico Shadlou and the animations.
+Implementation of the website with multi-language support.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
       <link>http://giuliobosco.github.io/experiences/first-experience/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
       <guid>http://giuliobosco.github.io/experiences/first-experience/</guid>
-      <description>I had my first experience in Lugano.</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lvart.org - Project</title>
+      <link>http://giuliobosco.github.io/projects/lvart.org/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/lvart.org/</guid>
+      <description>Website: Under Construction
+Project type: Photography Portfolio Webiste.
+Project tecnologies:
+ Frontend framework - Angular Handless CMS - Strapi CMS Containers - Docker  Project description:
+Discuss with the client the requirements, then design and develop the website.</description>
+    </item>
+    
+    <item>
+      <title>romanmarbles.com - Project</title>
+      <link>http://giuliobosco.github.io/projects/romanmarbles.com/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/romanmarbles.com/</guid>
+      <description>Website: romanmarbles.com
+Project type: Knowledge Website.
+Project tecnologies:
+ HTML5, CSS3, JS Frontend framework - AngularJS Handless CMS - Strapi CMS Containers - Docker  Project description:
+Discuss with the client the requirements, collaborate with Domenico Shadlou for UI/UX and then implement the code.
+Implementation of the website with multi-language support.</description>
     </item>
     
     <item>
