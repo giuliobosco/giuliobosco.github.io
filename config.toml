@@ -45,7 +45,7 @@ github = "https://github.com/giuliobosco/"
         url = "https://www.instagram.com/giulio___01/"
         weight = 3 
 
-    [[menu.footer]]
-        name = "About"
-        url = "/about/"
-        weight = 4
+#    [[menu.footer]]
+#        name = "About"
+#        url = "/about/"
+#        weight = 4
