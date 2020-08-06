@@ -1,0 +1,51 @@
+baseURL = "http://giuliobosco.github.io/"
+languageCode = "en-us"
+title = "giuliobosco.ch"
+theme = "smol"
+github = "https://github.com/giuliobosco/"
+
+# Parameters
+[params]
+    subtitle = ""
+    dateFmt = "2006.01.02 15:04"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects/"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "experiences"
+        name = "Experiences"
+        url = "/experiences/"
+        weight = 2 
+
+  [[menu.main]]
+        identifier = "education"
+        name = "Education"
+        url = "/education/"
+        weight = 3
+
+# Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/giuliobosco"
+        weight = 1 
+
+    [[menu.footer]]
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/giulio-bosco-91a728127/"
+        weight = 2 
+
+    [[menu.footer]]
+        name = "Instagram"
+        url = "https://www.instagram.com/giulio___01/"
+        weight = 3 
+
+    [[menu.footer]]
+        name = "About"
+        url = "/about/"
+        weight = 4
