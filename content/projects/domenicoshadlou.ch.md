@@ -15,4 +15,5 @@ Project tecnologies:
 - [NGINX Web Server](https://www.nginx.com/)
 
 Project description:  
-Implement the design of [**Domenico Shadlou**](https://domenicoshadlou.ch) and the animations.
+Implement the design of [**Domenico Shadlou**](https://domenicoshadlou.ch) and the animations.  
+Implementation of the website with multi-language support.
