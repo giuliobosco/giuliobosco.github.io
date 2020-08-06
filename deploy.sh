@@ -2,7 +2,8 @@
 
 if [ ! -d "./public" ]; then
     git fetch origin gh-pages
-    git branch --track gh-pages
+    git checkout gh-pages
+    git checkout master
     git worktree add -B gh-pages public gh-pages
 fi
 
