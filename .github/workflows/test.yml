@@ -45,3 +45,6 @@ jobs:
 
     - name: Build Hugo
       run: ~/go/bin/hugo
+
+    - name: Run deploy script
+      run: ./deploy.sh
