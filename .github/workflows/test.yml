@@ -25,4 +25,4 @@ jobs:
         ls
 
     - name: Test Hugo Build
-      run: ls
+      run: pwd
