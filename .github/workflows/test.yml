@@ -28,6 +28,15 @@ jobs:
         go install
         ls ~/go/bin
 
+    - name: Check public folder
+      run: |
+        if [ ! -d "./public" ]; then
+          git fetch origin gh-pages
+          git checkout gh-pages
+          git checkout master
+          git worktree add -B gh-pages public gh-pages
+        fi
+
     - name: Build Hugo
       run: ~/go/bin/hugo
 
@@ -38,10 +47,3 @@ jobs:
         BRANCH: gh-pages
         FOLDER: public
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Setup identity
-      run: |
-        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
-
-    - name: Run deploy script
-      run: ./deploy.sh
