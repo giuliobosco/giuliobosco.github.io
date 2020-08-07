@@ -28,24 +28,13 @@ jobs:
         go install
         ls ~/go/bin
 
-    - name: Check public folder
-      run: |
-        if [ ! -d "./public" ]; then
-          git fetch origin gh-pages
-          git checkout gh-pages
-          git checkout master
-          git worktree add -B gh-pages public gh-pages
-        fi
-
     - name: Build Hugo
       run: ~/go/bin/hugo
 
     - name: Deploy branch
-      run: |
-        git config --global user.name 'giuliobosco'
-        git config --global user.email 'giuliobosco@users.noreply.github.com'
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-        cd public 
-        git add --all
-        git commit -m "Publish Hugo Website"
-        git push
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: gh-pages
+        FOLDER: public
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
