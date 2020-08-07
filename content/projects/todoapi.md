@@ -5,7 +5,7 @@ weight: 7
 ---
 
 Project type: **Application**.  
-Repository: [GitHub git repo](https://github.com/giuliobosco/todoAPI)  
+Repository: [giuliobosco/todoAPI](https://github.com/giuliobosco/todoAPI)  
 Status: Woring on
 
 Project tecnologies:

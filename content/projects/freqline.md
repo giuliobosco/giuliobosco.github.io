@@ -4,7 +4,10 @@ date: 2020-08-04T16:51:32+02:00
 weight: 1
 ---
 
-Project type: **School project**.
+Project type: **School project**.  
+Repositories:
+- [giuliobosco/freqapp](https://github.com/giuliobosco/freqapp)
+- [giuliobosco/freqline](https://github.com/giuliobosco/freqline)
 
 Project tecnologies:
 - Database - **MariaDB**

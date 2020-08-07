@@ -5,7 +5,7 @@ weight: 3
 ---
 
 Project type: **Automation**.  
-Repository: [GitHub git repo](https://github.com/giuliobosco/popenv)
+Repository: [giuliobosco/popenv](https://github.com/giuliobosco/popenv)
 
 Project tecnologies:
 - Automation - [Ansible](https://ansible.com)
