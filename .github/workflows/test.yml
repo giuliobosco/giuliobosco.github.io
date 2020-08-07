@@ -22,7 +22,13 @@ jobs:
 
     - name: Install Hugo
       run: |
-        ls
+        ls ../
 
     - name: Test Hugo Build
       run: pwd
+
+    - name: Go back
+      run: cd ..
+
+    - name: ls
+      run: ls
