@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on giuliobosco.ch</title>
+    <link>http://giuliobosco.github.io/experiences/</link>
+    <description>Recent content in Experiences on giuliobosco.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2020 16:51:32 +0200</lastBuildDate>
+    
+	<atom:link href="http://giuliobosco.github.io/experiences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tecnical Intern</title>
+      <link>http://giuliobosco.github.io/experiences/2015mlt/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2015mlt/</guid>
+      <description>2015 August - 1 week
+Company: MLT Systems
+ Working on:
+ System administration  UNIX/Linux Windows (Active Directory Clients)   Helpdesk  </description>
+    </item>
+    
+    <item>
+      <title>Tecnical Intern</title>
+      <link>http://giuliobosco.github.io/experiences/2017mlt/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2017mlt/</guid>
+      <description>2017 July - 1 month
+Company: MLT Systems
+ Working on:
+ System administration  UNIX/Linux Windows (Active Directory Clients)   Helpdesk  </description>
+    </item>
+    
+    <item>
+      <title>Storage Administrator</title>
+      <link>http://giuliobosco.github.io/experiences/2017bomaidea/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2017bomaidea/</guid>
+      <description>2017 July - 2019 May
+ Administration of back-up system and data storage:
+ Data Redundancy UPS System Cooldown System Autonomic Backup  </description>
+    </item>
+    
+    <item>
+      <title>IT Lead</title>
+      <link>http://giuliobosco.github.io/experiences/2019bomaidea/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2019bomaidea/</guid>
+      <description>2019 July - 2020 June
+ Full Stack Development
+ Frontend (HTML5, CSS3, JS, Angular, React) Backend (Java EE, Python Flask, Python Django, Go, Node.js) Database (MySQL, MongoDB)  Systems Administration
+ Data Redundancy UPS System Cooldown System Autonomic Backup Network Administration Unix Server Administration  </description>
+    </item>
+    
+    <item>
+      <title>Tecnical Intern</title>
+      <link>http://giuliobosco.github.io/experiences/2018feed/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2018feed/</guid>
+      <description>2018 July - 1 month
+Company: Feed Agency
+ Development:
+ email HTML &amp;amp; CSS (templates, modules) reusable code and modules (HTML, CSS, Handlebars, Grunt)  QA:
+ Tested with the QA team High support standard Desktop, Webmail and Mobile clients (65 supported devices)
+Real device &amp;amp; Email on Acid.  Team work:
+ daily meetings work closely with other members of the team (Devs QA testers, Project Managers, Account Managers, Designers, Copywriters) within the difference offices (London, Manchester, Berlin and San Francisco).</description>
+    </item>
+    
+    <item>
+      <title>HPC Operations</title>
+      <link>http://giuliobosco.github.io/experiences/2019cscs/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2019cscs/</guid>
+      <description>2019 June - 2019 July
+Company: CSCS (Swiss National Supercomputing Centre)
+Team: Network &amp;amp; Security
+ Worked on:
+ Network Performance Test (BBR &amp;amp; QUIC) Netflow &amp;amp; ElastiFlow (Elasticsearch, Logstash, Kibana) Load balancer (NAT vs DSR) DHCPv6 OSSEC Installation of switches and servers in machine room UNIX/Linux administration  </description>
+    </item>
+    
+    <item>
+      <title>SAP BO Users Operations Support</title>
+      <link>http://giuliobosco.github.io/experiences/2020drytech/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2020drytech/</guid>
+      <description>2020 July - current
+Company: Drytech International SA
+ Responsability:
+ Understanding of company flows Understanding of SAP Operations Manage SAP Data  </description>
+    </item>
+    
+  </channel>
+</rss>
