@@ -18,7 +18,8 @@
       
       <guid>http://giuliobosco.github.io/projects/freqline/</guid>
       <description>Project type: School project.
-Project tecnologies:
+Repositories:
+ giuliobosco/freqapp giuliobosco/freqline  Project tecnologies:
  Database - MariaDB Backend - Java Frontend - AngularJS Mobile APP - React Native &amp;amp; Expo Controller - Arduino   Project description:
 Build a stand-alone remote controlled waves generator (ultrasonic waves).
  1° semester:
@@ -47,7 +48,7 @@ Implementation of the website with multi-language support.</description>
       
       <guid>http://giuliobosco.github.io/projects/popenv/</guid>
       <description>Project type: Automation.
-Repository: GitHub git repo
+Repository: giuliobosco/popenv
 Project tecnologies:
  Automation - Ansible Scripting - Bash   Project Description:
 Automation of setting up process for my working station.
@@ -102,7 +103,7 @@ Implementation of the website with multi-language support.</description>
       
       <guid>http://giuliobosco.github.io/projects/todoapi/</guid>
       <description>Project type: Application.
-Repository: GitHub git repo
+Repository: giuliobosco/todoAPI
 Status: Woring on
 Project tecnologies:
  Backend - GoLang Containers - Docker  Project Description:
