@@ -190,11 +190,23 @@ Implementation of the website with multi-language support.</description>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
       <guid>http://giuliobosco.github.io/experiences/2019cscs/</guid>
-      <description>2019 June - 2020 July
+      <description>2019 June - 2019 July
 Company: CSCS (Swiss National Supercomputing Centre)
 Team: Network &amp;amp; Security
  Worked on:
  Network Performance Test (BBR &amp;amp; QUIC) Netflow &amp;amp; ElastiFlow (Elasticsearch, Logstash, Kibana) Load balancer (NAT vs DSR) DHCPv6 OSSEC Installation of switches and servers in machine room UNIX/Linux administration  </description>
+    </item>
+    
+    <item>
+      <title>SAP BO Users Operations Support</title>
+      <link>http://giuliobosco.github.io/experiences/2020drytech/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2020drytech/</guid>
+      <description>2020 July - current
+Company: Drytech International SA
+ Responsability:
+ Understanding of company flows Understanding of SAP Operations Manage SAP Data  </description>
     </item>
     
     <item>
