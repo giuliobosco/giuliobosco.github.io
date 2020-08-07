@@ -28,7 +28,8 @@ jobs:
         go install
         ls ~/go/bin
 
-
     - name: Test Hugo Build
       run: ~/go/bin/hugo
-      
+
+    - name: Build Hugo and deploy
+      run: ./deploy.sh
