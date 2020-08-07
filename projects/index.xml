@@ -12,34 +12,7 @@
     
     
     <item>
-      <title>cassi.ch - Project</title>
-      <link>http://giuliobosco.github.io/projects/cassi.ch/</link>
-      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
-      
-      <guid>http://giuliobosco.github.io/projects/cassi.ch/</guid>
-      <description>Website: cassi.ch
-Project type: Website with CMS.
-Project tecnologies:
- Frontend framework - Angular Handless CMS - Strapi CMS Containers - Docker  Project description:
-Integrate new CMS and front-end implementation using the design of cloak association.</description>
-    </item>
-    
-    <item>
-      <title>domenicoshadlou.ch - Project</title>
-      <link>http://giuliobosco.github.io/projects/domenicoshadlou.ch/</link>
-      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
-      
-      <guid>http://giuliobosco.github.io/projects/domenicoshadlou.ch/</guid>
-      <description>Website: domenicoshadlou.ch
-Project type: Basic Portfolio Webiste.
-Project tecnologies:
- HTML5, CSS3, JS  Bootstrap jQuery  jQuery scrollify     NGINX Web Server  Project description:
-Implement the design of Domenico Shadlou and the animations.
-Implementation of the website with multi-language support.</description>
-    </item>
-    
-    <item>
-      <title>freqline - Project</title>
+      <title>freqline</title>
       <link>http://giuliobosco.github.io/projects/freqline/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
@@ -54,7 +27,36 @@ Re-design and re-build the communication between Adrduino and the Java backend v
     </item>
     
     <item>
-      <title>lvart.org - Project</title>
+      <title>romanmarbles.com</title>
+      <link>http://giuliobosco.github.io/projects/romanmarbles.com/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/romanmarbles.com/</guid>
+      <description>Website: romanmarbles.com
+Project type: Knowledge Website.
+Project tecnologies:
+ HTML5, CSS3, JS Frontend framework - AngularJS Handless CMS - Strapi CMS Containers - Docker  Project description:
+Discuss with the client the requirements, collaborate with Domenico Shadlou for UI/UX and then implement the code.
+Implementation of the website with multi-language support.</description>
+    </item>
+    
+    <item>
+      <title>popenv</title>
+      <link>http://giuliobosco.github.io/projects/popenv/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/popenv/</guid>
+      <description>Project type: Automation.
+Repository: GitHub git repo
+Project tecnologies:
+ Automation - Ansible Scripting - Bash   Project Description:
+Automation of setting up process for my working station.
+After install the OS Pop!_OS, run from localhost or from another machine this ansible playbook.
+Will install basic development tools and utilities.</description>
+    </item>
+    
+    <item>
+      <title>lvart.org</title>
       <link>http://giuliobosco.github.io/projects/lvart.org/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
@@ -67,17 +69,47 @@ Discuss with the client the requirements, then design and develop the website.</
     </item>
     
     <item>
-      <title>romanmarbles.com - Project</title>
-      <link>http://giuliobosco.github.io/projects/romanmarbles.com/</link>
+      <title>cassi.ch</title>
+      <link>http://giuliobosco.github.io/projects/cassi.ch/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
-      <guid>http://giuliobosco.github.io/projects/romanmarbles.com/</guid>
-      <description>Website: romanmarbles.com
-Project type: Knowledge Website.
+      <guid>http://giuliobosco.github.io/projects/cassi.ch/</guid>
+      <description>Website: cassi.ch
+Project type: Website with CMS.
 Project tecnologies:
- HTML5, CSS3, JS Frontend framework - AngularJS Handless CMS - Strapi CMS Containers - Docker  Project description:
-Discuss with the client the requirements, collaborate with Domenico Shadlou for UI/UX and then implement the code.
+ Frontend framework - Angular Handless CMS - Strapi CMS Containers - Docker  Project description:
+Integrate new CMS and front-end implementation using the design of cloak association.</description>
+    </item>
+    
+    <item>
+      <title>domenicoshadlou.ch</title>
+      <link>http://giuliobosco.github.io/projects/domenicoshadlou.ch/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/domenicoshadlou.ch/</guid>
+      <description>Website: domenicoshadlou.ch
+Project type: Basic Portfolio Webiste.
+Project tecnologies:
+ HTML5, CSS3, JS  Bootstrap jQuery  jQuery scrollify     NGINX Web Server  Project description:
+Implement the design of Domenico Shadlou and the animations.
 Implementation of the website with multi-language support.</description>
+    </item>
+    
+    <item>
+      <title>todoAPI</title>
+      <link>http://giuliobosco.github.io/projects/todoapi/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/todoapi/</guid>
+      <description>Project type: Application.
+Repository: GitHub git repo
+Status: Woring on
+Project tecnologies:
+ Backend - GoLang Containers - Docker  Project Description:
+Create a simple todo APP cloud based and multiplatform.
+Support Goal: Web, iOS, Android, Linux, macOS, Windows.
+Project status:
+First version of the API done, begin develop Mobile APPs.</description>
     </item>
     
   </channel>

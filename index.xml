@@ -12,43 +12,7 @@
     
     
     <item>
-      <title>cassi.ch - Project</title>
-      <link>http://giuliobosco.github.io/projects/cassi.ch/</link>
-      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
-      
-      <guid>http://giuliobosco.github.io/projects/cassi.ch/</guid>
-      <description>Website: cassi.ch
-Project type: Website with CMS.
-Project tecnologies:
- Frontend framework - Angular Handless CMS - Strapi CMS Containers - Docker  Project description:
-Integrate new CMS and front-end implementation using the design of cloak association.</description>
-    </item>
-    
-    <item>
-      <title>domenicoshadlou.ch - Project</title>
-      <link>http://giuliobosco.github.io/projects/domenicoshadlou.ch/</link>
-      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
-      
-      <guid>http://giuliobosco.github.io/projects/domenicoshadlou.ch/</guid>
-      <description>Website: domenicoshadlou.ch
-Project type: Basic Portfolio Webiste.
-Project tecnologies:
- HTML5, CSS3, JS  Bootstrap jQuery  jQuery scrollify     NGINX Web Server  Project description:
-Implement the design of Domenico Shadlou and the animations.
-Implementation of the website with multi-language support.</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>http://giuliobosco.github.io/experiences/first-experience/</link>
-      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
-      
-      <guid>http://giuliobosco.github.io/experiences/first-experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>freqline - Project</title>
+      <title>freqline</title>
       <link>http://giuliobosco.github.io/projects/freqline/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
@@ -63,20 +27,45 @@ Re-design and re-build the communication between Adrduino and the Java backend v
     </item>
     
     <item>
-      <title>lvart.org - Project</title>
-      <link>http://giuliobosco.github.io/projects/lvart.org/</link>
+      <title>tecnical high school</title>
+      <link>http://giuliobosco.github.io/education/samt/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
-      <guid>http://giuliobosco.github.io/projects/lvart.org/</guid>
-      <description>Website: Under Construction
-Project type: Photography Portfolio Webiste.
-Project tecnologies:
- Frontend framework - Angular Handless CMS - Strapi CMS Containers - Docker  Project description:
-Discuss with the client the requirements, then design and develop the website.</description>
+      <guid>http://giuliobosco.github.io/education/samt/</guid>
+      <description>2016 - 2020
+The School of Arts and Jobs Trevano (Scuola Arti e Mestieri di Trevano - SAMT) is the Tecnical High School in Information Technology with general course of studies.
+Degree:
+ Federal Certificate of Capability (Attestato Federale di capacità - AFC) Professional Maturity Certificate (Maturità Professionale - MP)  School subjects:
+ Coding Networking Server Management Project Management  Final project:
+In this kind of school the final technical exam is a project.</description>
     </item>
     
     <item>
-      <title>romanmarbles.com - Project</title>
+      <title>Tecnical Intern</title>
+      <link>http://giuliobosco.github.io/experiences/2015mlt/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2015mlt/</guid>
+      <description>2015 August - 1 week
+Company: MLT Systems
+ Working on:
+ System administration  UNIX/Linux Windows (Active Directory Clients)   Helpdesk  </description>
+    </item>
+    
+    <item>
+      <title>#GoogleCloudOnBoard - Dublin</title>
+      <link>http://giuliobosco.github.io/education/2019gcp/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/education/2019gcp/</guid>
+      <description>2019 March 21
+Course: #GoogleCloudOnBoard
+Intorduction to GCP.
+ Google Cloud Platform resource hierarchy Identity and Access Management (IAM) Cloud Identity Interacting with Google Cloud Platform GCP Marketplace  GCP workshops and begin playing.</description>
+    </item>
+    
+    <item>
+      <title>romanmarbles.com</title>
       <link>http://giuliobosco.github.io/projects/romanmarbles.com/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
@@ -90,17 +79,138 @@ Implementation of the website with multi-language support.</description>
     </item>
     
     <item>
-      <title>Tecnical High School</title>
-      <link>http://giuliobosco.github.io/education/samt/</link>
+      <title>Tecnical Intern</title>
+      <link>http://giuliobosco.github.io/experiences/2017mlt/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
-      <guid>http://giuliobosco.github.io/education/samt/</guid>
-      <description>2016 - 2020
-The School of Arts and Jobs Trevano (Scuola Arti e Mestieri di Trevano - SAMT) is the Tecnical High School in Information Technology with general course of studies.
-Degree:
- Federal Certificate of Capability (Attestato Federale di capacità - AFC) Professional Maturity Certificate (Maturità Professionale - MP)  School subjects:
- Coding Networking Server Management Project Management  Final project:
-In this kind of school the final technical exam is a project.</description>
+      <guid>http://giuliobosco.github.io/experiences/2017mlt/</guid>
+      <description>2017 July - 1 month
+Company: MLT Systems
+ Working on:
+ System administration  UNIX/Linux Windows (Active Directory Clients)   Helpdesk  </description>
+    </item>
+    
+    <item>
+      <title>popenv</title>
+      <link>http://giuliobosco.github.io/projects/popenv/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/popenv/</guid>
+      <description>Project type: Automation.
+Repository: GitHub git repo
+Project tecnologies:
+ Automation - Ansible Scripting - Bash   Project Description:
+Automation of setting up process for my working station.
+After install the OS Pop!_OS, run from localhost or from another machine this ansible playbook.
+Will install basic development tools and utilities.</description>
+    </item>
+    
+    <item>
+      <title>Storage Administrator</title>
+      <link>http://giuliobosco.github.io/experiences/2017bomaidea/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2017bomaidea/</guid>
+      <description>2017 July - 2019 May
+ Administration of back-up system and data storage:
+ Data Redundancy UPS System Cooldown System Autonomic Backup  </description>
+    </item>
+    
+    <item>
+      <title>IT Lead</title>
+      <link>http://giuliobosco.github.io/experiences/2019bomaidea/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2019bomaidea/</guid>
+      <description>2019 July - 2020 June
+ Full Stack Development
+ Frontend (HTML5, CSS3, JS, Angular, React) Backend (Java EE, Python Flask, Python Django, Go, Node.js) Database (MySQL, MongoDB)  Systems Administration
+ Data Redundancy UPS System Cooldown System Autonomic Backup Network Administration Unix Server Administration  </description>
+    </item>
+    
+    <item>
+      <title>lvart.org</title>
+      <link>http://giuliobosco.github.io/projects/lvart.org/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/lvart.org/</guid>
+      <description>Website: Under Construction
+Project type: Photography Portfolio Webiste.
+Project tecnologies:
+ Frontend framework - Angular Handless CMS - Strapi CMS Containers - Docker  Project description:
+Discuss with the client the requirements, then design and develop the website.</description>
+    </item>
+    
+    <item>
+      <title>cassi.ch</title>
+      <link>http://giuliobosco.github.io/projects/cassi.ch/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/cassi.ch/</guid>
+      <description>Website: cassi.ch
+Project type: Website with CMS.
+Project tecnologies:
+ Frontend framework - Angular Handless CMS - Strapi CMS Containers - Docker  Project description:
+Integrate new CMS and front-end implementation using the design of cloak association.</description>
+    </item>
+    
+    <item>
+      <title>Tecnical Intern</title>
+      <link>http://giuliobosco.github.io/experiences/2018feed/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2018feed/</guid>
+      <description>2018 July - 1 month
+Company: Feed Agency
+ Development:
+ email HTML &amp;amp; CSS (templates, modules) reusable code and modules (HTML, CSS, Handlebars, Grunt)  QA:
+ Tested with the QA team High support standard Desktop, Webmail and Mobile clients (65 supported devices)
+Real device &amp;amp; Email on Acid.  Team work:
+ daily meetings work closely with other members of the team (Devs QA testers, Project Managers, Account Managers, Designers, Copywriters) within the difference offices (London, Manchester, Berlin and San Francisco).</description>
+    </item>
+    
+    <item>
+      <title>domenicoshadlou.ch</title>
+      <link>http://giuliobosco.github.io/projects/domenicoshadlou.ch/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/domenicoshadlou.ch/</guid>
+      <description>Website: domenicoshadlou.ch
+Project type: Basic Portfolio Webiste.
+Project tecnologies:
+ HTML5, CSS3, JS  Bootstrap jQuery  jQuery scrollify     NGINX Web Server  Project description:
+Implement the design of Domenico Shadlou and the animations.
+Implementation of the website with multi-language support.</description>
+    </item>
+    
+    <item>
+      <title>HPC Operations</title>
+      <link>http://giuliobosco.github.io/experiences/2019cscs/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2019cscs/</guid>
+      <description>2019 June - 2020 July
+Company: CSCS (Swiss National Supercomputing Centre)
+Team: Network &amp;amp; Security
+ Worked on:
+ Network Performance Test (BBR &amp;amp; QUIC) Netflow &amp;amp; ElastiFlow (Elasticsearch, Logstash, Kibana) Load balancer (NAT vs DSR) DHCPv6 OSSEC Installation of switches and servers in machine room UNIX/Linux administration  </description>
+    </item>
+    
+    <item>
+      <title>todoAPI</title>
+      <link>http://giuliobosco.github.io/projects/todoapi/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/todoapi/</guid>
+      <description>Project type: Application.
+Repository: GitHub git repo
+Status: Woring on
+Project tecnologies:
+ Backend - GoLang Containers - Docker  Project Description:
+Create a simple todo APP cloud based and multiplatform.
+Support Goal: Web, iOS, Android, Linux, macOS, Windows.
+Project status:
+First version of the API done, begin develop Mobile APPs.</description>
     </item>
     
   </channel>

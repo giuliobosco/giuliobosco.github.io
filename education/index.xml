@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Tecnical High School</title>
+      <title>tecnical high school</title>
       <link>http://giuliobosco.github.io/education/samt/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
@@ -23,6 +23,18 @@ Degree:
  Federal Certificate of Capability (Attestato Federale di capacità - AFC) Professional Maturity Certificate (Maturità Professionale - MP)  School subjects:
  Coding Networking Server Management Project Management  Final project:
 In this kind of school the final technical exam is a project.</description>
+    </item>
+    
+    <item>
+      <title>#GoogleCloudOnBoard - Dublin</title>
+      <link>http://giuliobosco.github.io/education/2019gcp/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/education/2019gcp/</guid>
+      <description>2019 March 21
+Course: #GoogleCloudOnBoard
+Intorduction to GCP.
+ Google Cloud Platform resource hierarchy Identity and Access Management (IAM) Cloud Identity Interacting with Google Cloud Platform GCP Marketplace  GCP workshops and begin playing.</description>
     </item>
     
   </channel>
