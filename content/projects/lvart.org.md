@@ -9,9 +9,9 @@ Website: Under Construction
 Project type: **Photography Portfolio Webiste**.
 
 Project tecnologies:
-- [Frontend framework - **Angular**](https://angular.io/) 
-- [Handless CMS - **Strapi CMS**](https://strapi.io/)
-- [Containers - **Docker**](https://www.docker.com/)
+- Frontend framework - [**Angular**](https://angular.io/) 
+- Handless CMS - [**Strapi CMS**](https://strapi.io/)
+- Containers - [**Docker**](https://www.docker.com/)
 
 Project description:  
 Discuss with the client the requirements, then design and develop the website.

@@ -10,9 +10,9 @@ Project type: **Knowledge Website**.
 
 Project tecnologies:
 - HTML5, CSS3, JS
-- [Frontend framework - **AngularJS**](https://angularjs.org/) 
-- [Handless CMS - **Strapi CMS**](https://strapi.io/)
-- [Containers - **Docker**](https://www.docker.com/)
+- Frontend framework - [**AngularJS**](https://angularjs.org/) 
+- Handless CMS - [**Strapi CMS**](https://strapi.io/)
+- Containers - [**Docker**](https://www.docker.com/)
 
 Project description:  
 Discuss with the client the requirements, collaborate with [**Domenico Shadlou**](https://domenicoshadlou.ch) for UI/UX and then implement the code.  
