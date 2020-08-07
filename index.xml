@@ -48,6 +48,21 @@ Implementation of the website with multi-language support.</description>
     </item>
     
     <item>
+      <title>freqline - Project</title>
+      <link>http://giuliobosco.github.io/projects/freqline/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/projects/freqline/</guid>
+      <description>Project type: School project.
+Project tecnologies:
+ Database - MariaDB Backend - Java Frontend - AngularJS Mobile APP - React Native &amp;amp; Expo Controller - Arduino   Project description:
+Build a stand-alone remote controlled waves generator (ultrasonic waves).
+ 1° semester:
+Design and build the system, with Ethernet communication between Arduino and the Java Backend. 2° semester:
+Re-design and re-build the communication between Adrduino and the Java backend via Serial Communication.</description>
+    </item>
+    
+    <item>
       <title>lvart.org - Project</title>
       <link>http://giuliobosco.github.io/projects/lvart.org/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
@@ -75,12 +90,17 @@ Implementation of the website with multi-language support.</description>
     </item>
     
     <item>
-      <title>SAMT</title>
+      <title>Tecnical High School</title>
       <link>http://giuliobosco.github.io/education/samt/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
       <guid>http://giuliobosco.github.io/education/samt/</guid>
-      <description>Information Thenology shool.</description>
+      <description>2016 - 2020
+The School of Arts and Jobs Trevano (Scuola Arti e Mestieri di Trevano - SAMT) is the Tecnical High School in Information Technology with general course of studies.
+Degree:
+ Federal Certificate of Capability (Attestato Federale di capacità - AFC) Professional Maturity Certificate (Maturità Professionale - MP)  School subjects:
+ Coding Networking Server Management Project Management  Final project:
+In this kind of school the final technical exam is a project.</description>
     </item>
     
   </channel>
