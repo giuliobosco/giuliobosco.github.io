@@ -20,15 +20,10 @@ jobs:
     - name: Check out code into the Go module directory
       uses: actions/checkout@v2
 
-    - name: Create public folder
-      run: mkdir public
-
     - name: Deploy branch
       uses: s0/git-publish-subdir-action@develop
       env:
         REPO: self
-        BRANCH: gh-pages
-        FOLDER: public
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Setup identity
