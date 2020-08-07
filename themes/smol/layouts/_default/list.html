@@ -2,12 +2,13 @@
 	<main>
 		<br>
 		{{ $listtitle := .Title }}
+		<!--
 		{{ if or .Title .Content }}
 		<div>
 			{{ with .Title }}<h1>{{ lower . }}</h1>{{ end }}
 			{{ with .Content }}<div>{{ . }}</div>{{ end }}
 		</div>
-		{{ end }}
+		{{ end }}-->
 		
 		<ul>
 		    {{ range (.Paginator.Pages.ByParam "weight").Reverse }}

@@ -5,11 +5,16 @@
 	<div style="float: right;">{{ .Site.Params.subtitle }}</div><br>
 	<p>
 	<nav>
-			<a href="/"><b>start</b></a>.
-			{{ with .Site.Menus.main }}
-			{{ range . }}
-			<a href="{{ .URL | relURL }}"><b>{{ .Name }}</b></a>.
-			{{ end }}
+		{{ $currentPage := . }}
+		{{ with .Site.Menus.main }}
+		{{ range . }}
+			{{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+  			{{ $active = or $active (eq .Name $currentPage.Title) }}
+  			{{ $active = or $active (and (eq .Name "education") (eq $currentPage.Section "education")) }}
+  			{{ $active = or $active (and (eq .Name "experiences") (eq $currentPage.Section "experiences")) }}
+  			{{ $active = or $active (and (eq .Name "projects") (eq $currentPage.Section "projects")) }}
+			<a class="{{ if $active }}active{{ end }}" href="{{ .URL | relURL }}" title="{{ .Title }}" alt="{{ .Title }}"><b>{{ .Name }}</b></a>.
+		{{ end }}
 	</nav>
 	</p>
 	{{ end }}

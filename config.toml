@@ -12,22 +12,31 @@ github = "https://github.com/giuliobosco/"
 # Header
 [menu]
   [[menu.main]]
+        identifier = "home"
+        name = "start"
+        title = "start"
+        url = "/"
+        weight = 1
+  [[menu.main]]
         identifier = "projects"
         name = "projects"
+        title = "start"
         url = "/projects/"
-        weight = 1 
+        weight = 2
 
   [[menu.main]]
         identifier = "experiences"
         name = "experiences"
+        title = "start"
         url = "/experiences/"
-        weight = 2 
+        weight = 3
 
   [[menu.main]]
         identifier = "education"
         name = "education"
+        title = "start"
         url = "/education/"
-        weight = 3
+        weight = 4
 
 # Footer
   [[menu.footer]]
