@@ -1,6 +1,7 @@
 ---
-title: "cassi.ch - Project"
+title: "cassi.ch"
 date: 2020-08-04T16:51:32+02:00
+weight: 5
 ---
 
 Website: [cassi.ch](http://cassi.ch)

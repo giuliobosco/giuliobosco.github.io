@@ -4,19 +4,19 @@
 		{{ $listtitle := .Title }}
 		{{ if or .Title .Content }}
 		<div>
-			{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+			{{ with .Title }}<h1>{{ lower . }}</h1>{{ end }}
 			{{ with .Content }}<div>{{ . }}</div>{{ end }}
 		</div>
 		{{ end }}
 		
 		<ul>
-		    {{ range .Paginator.Pages }}
+		    {{ range (.Paginator.Pages.ByParam "weight").Reverse }}
 		    <li>
 		        <div class="post-title">
 				{{ if eq $listtitle "Posts" }}
 				    {{ .Date.Format "2006-01-02" }} <a href="{{ .RelPermalink }}">{{.Title }}</a>
 				{{ else }}
-				    <a href="{{ .RelPermalink }}">{{.Title }}</a>
+				    <a href="{{ .RelPermalink }}">{{.Title }}</a><br><small>{{ .Description }}</small>
 				{{ end }}
 		        </div>
 		    </li>

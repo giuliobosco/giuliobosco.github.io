@@ -1,7 +1,8 @@
 {{ define "main" }}
 	<main>
 		<article>
-			<h1>{{ .Title }}</h1>
+			<h1 class="single">{{ .Title }}</h1>
+			<p class="single">{{ .Description }}</p>
 			<br>
 			<!--<b><time>{{ .Date.Format (default "2006-01-02 15:04:05" .Site.Params.dateFmt) }}</time></b>
 		       {{ range .Params.tags }}

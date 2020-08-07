@@ -1,11 +1,12 @@
 ---
-title: "Tecnical High School"
+title: "tecnical high school"
 date: 2020-08-04T16:51:32+02:00
+weight: 1
 ---
 
 2016 - 2020
 
-The *School of Arts and Jobs Trevano (Scuola Arti e Mestieri di Trevano - SAMT)* is the Tecnical High School in Information Technology with general course of studies.
+The *School of Arts and Jobs Trevano (Scuola Arti e Mestieri di Trevano - [SAMT](https://www.cpttrevano.ti.ch))* is the Tecnical High School in Information Technology with general course of studies.
 
 Degree: 
 - [*Federal Certificate of Capability (Attestato Federale di capacit&agrave; - AFC)*](https://www.ict-berufsbildung.ch)

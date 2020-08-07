@@ -1,6 +1,7 @@
 ---
-title: "freqline - Project"
+title: "freqline"
 date: 2020-08-04T16:51:32+02:00
+weight: 1
 ---
 
 Project type: **School project**.

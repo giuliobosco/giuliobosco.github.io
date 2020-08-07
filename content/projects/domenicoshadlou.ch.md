@@ -1,6 +1,7 @@
 ---
-title: "domenicoshadlou.ch - Project"
+title: "domenicoshadlou.ch"
 date: 2020-08-04T16:51:32+02:00
+weight: 6
 ---
 
 Website: [domenicoshadlou.ch](https://domenicoshadlou.ch)
