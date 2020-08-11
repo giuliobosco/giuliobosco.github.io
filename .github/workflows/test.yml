@@ -20,21 +20,6 @@ jobs:
     - name: Check out code into the Go module directory
       uses: actions/checkout@v2
 
-    - name: Create public folder
-      run: mkdir public
-
-    - name: Deploy branch
-      uses: s0/git-publish-subdir-action@develop
-      env:
-        REPO: self
-        BRANCH: gh-pages
-        FOLDER: public
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Setup identity
-      run: |
-        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
-
     - name: Install Hugo
       run: |
         cd ..
@@ -45,3 +30,14 @@ jobs:
 
     - name: Build Hugo
       run: ~/go/bin/hugo
+
+    - name: Copy CNAME
+      run: cp ./CNAME public/
+
+    - name: Deploy branch
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: gh-pages
+        FOLDER: public
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -3,9 +3,15 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="giulio, bosco, lugano, rowing, it, information, technology, informatica, programmazione, coding, developing, network, linux, unix, freebsd, go, angular, html, strpai, docker, containers, portfolio, projects">
+    <meta name="og:title" content="{{ if ne .Title "giuliobosco.ch" }} {{ .Title }} {{ end}} giulio bosco">
+	<meta name="description" content="I'm Giulio Bosco based in Lugano, Switzerland. Work: SAP BO Users Operations Support at Drytech International SA. Skills: Team work, Coding, Systems">
+	<meta name="og:description" content="I'm Giulio Bosco based in Lugano, Switzerland. Work: SAP BO Users Operations Support at Drytech International SA. Skills: Team work, Coding, Systems">
+	<meta name=”robots” content="index, follow">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<style type=text/css>body{font-family:monospace;}</style>
-	<title>{{ .Title }} giulio bosco</title>
+    <link rel="icon" type="image/png" href="favicon.png?v=0">
+    <title>{{ if ne .Title "giuliobosco.ch" }} {{ .Title }} {{ end }} giulio bosco</title>
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
