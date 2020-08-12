@@ -6,11 +6,7 @@
     <description>Recent content on giuliobosco.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2020 16:51:32 +0200</lastBuildDate>
-    
-	<atom:link href="http://giuliobosco.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 04 Aug 2020 16:51:32 +0200</lastBuildDate><atom:link href="http://giuliobosco.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>freqline</title>
       <link>http://giuliobosco.github.io/projects/freqline/</link>
@@ -185,6 +181,17 @@ Implementation of the website with multi-language support.</description>
     </item>
     
     <item>
+      <title>Rowing - Youth Monitor (Coach)</title>
+      <link>http://giuliobosco.github.io/experiences/2019ccl/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2019ccl/</guid>
+      <description>2019 September - current
+Club: Club Canottieri Lugano
+Coach for the kids just starting with rowing, inspire, motivate, theach rowing tecnique and training. Train on the wather and indoor.</description>
+    </item>
+    
+    <item>
       <title>HPC Operations</title>
       <link>http://giuliobosco.github.io/experiences/2019cscs/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
@@ -197,18 +204,6 @@ Team: Network &amp;amp; Security
 At the end of the intern I was interviewed: Giulio Bosco: Il mio stage al CSCS
  Worked on:
  Network Performance Test (BBR &amp;amp; QUIC) Netflow &amp;amp; ElastiFlow (Elasticsearch, Logstash, Kibana) Load balancer (NAT vs DSR) DHCPv6 OSSEC Installation of switches and servers in machine room UNIX/Linux administration  </description>
-    </item>
-    
-    <item>
-      <title>SAP BO Users Operations Support</title>
-      <link>http://giuliobosco.github.io/experiences/2020drytech/</link>
-      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
-      
-      <guid>http://giuliobosco.github.io/experiences/2020drytech/</guid>
-      <description>2020 July - current
-Company: Drytech International SA
- Responsability:
- Understanding of company flows Understanding of SAP Operations Manage SAP Data  </description>
     </item>
     
     <item>
@@ -226,6 +221,18 @@ Create a simple todo APP cloud based and multiplatform.
 Support Goal: Web, iOS, Android, Linux, macOS, Windows.
 Project status:
 First version of the API done, begin develop Mobile APPs.</description>
+    </item>
+    
+    <item>
+      <title>SAP B1 Users Operations Support</title>
+      <link>http://giuliobosco.github.io/experiences/2020drytech/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2020drytech/</guid>
+      <description>2020 July - current
+Company: Drytech International SA
+ Responsability:
+ Understanding of company flows Understanding of SAP Operations Manage SAP Data  </description>
     </item>
     
   </channel>

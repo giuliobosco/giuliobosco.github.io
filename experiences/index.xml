@@ -6,11 +6,7 @@
     <description>Recent content in Experiences on giuliobosco.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2020 16:51:32 +0200</lastBuildDate>
-    
-	<atom:link href="http://giuliobosco.github.io/experiences/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 04 Aug 2020 16:51:32 +0200</lastBuildDate><atom:link href="http://giuliobosco.github.io/experiences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tecnical Intern</title>
       <link>http://giuliobosco.github.io/experiences/2015mlt/</link>
@@ -74,6 +70,17 @@ Real device &amp;amp; Email on Acid.  Team work:
     </item>
     
     <item>
+      <title>Rowing - Youth Monitor (Coach)</title>
+      <link>http://giuliobosco.github.io/experiences/2019ccl/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2019ccl/</guid>
+      <description>2019 September - current
+Club: Club Canottieri Lugano
+Coach for the kids just starting with rowing, inspire, motivate, theach rowing tecnique and training. Train on the wather and indoor.</description>
+    </item>
+    
+    <item>
       <title>HPC Operations</title>
       <link>http://giuliobosco.github.io/experiences/2019cscs/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
@@ -89,7 +96,7 @@ At the end of the intern I was interviewed: Giulio Bosco: Il mio stage al CSCS
     </item>
     
     <item>
-      <title>SAP BO Users Operations Support</title>
+      <title>SAP B1 Users Operations Support</title>
       <link>http://giuliobosco.github.io/experiences/2020drytech/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
