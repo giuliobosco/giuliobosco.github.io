@@ -8,7 +8,7 @@ github = "https://github.com/giuliobosco/"
 [params]
     subtitle = ""
     dateFmt = "2006.01.02 15:04"
-    description = "I'm Giulio Bosco based in Lugano, Switzerland. Work: SAP BO Users Operations Support at Drytech International SA. Skills: Team work, Coding, Systems"
+    description = "I'm Giulio Bosco based in Lugano, Switzerland. Work: SAP B1 Users Operations Support at Drytech International SA. Skills: Team work, Coding, Systems"
 
 # Header
 [menu]
