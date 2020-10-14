@@ -11,7 +11,7 @@
 		{{ end }}-->
 		
 		<ul>
-		    {{ range (.Paginator.Pages.ByParam "weight").Reverse }}
+		    {{ range ((.Paginator 4).Pages.ByParam "weight").Reverse }}
 		    <li>
 		        <div class="post-title">
 				{{ if eq $listtitle "Posts" }}
