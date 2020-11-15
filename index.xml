@@ -259,5 +259,16 @@ Company: Drytech International SA
  Understanding of company flows Understanding of SAP Operations Manage SAP Data  </description>
     </item>
     
+    <item>
+      <title>amatriciana</title>
+      <link>http://giuliobosco.github.io/foods/pasta_amatriciana/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/foods/pasta_amatriciana/</guid>
+      <description>Origin: Roma, Italia
+Ingredienti:
+ Guanciale Cipolla Passata di pomodoro  </description>
+    </item>
+    
   </channel>
 </rss>
