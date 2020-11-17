@@ -6,7 +6,8 @@ description: "typical pasta dish of centre of italy, with guanciale (pillow), on
 weight: 0
 ---
 
-typical pasta dish of centre of italy, with guanciale (pillow), onions, tomato puree
+typical pasta dish of centre of italy, with guanciale (pillow), onions, tomato puree  
+usually for each sauce we have a different format of pasta, with amatriciana sauce is typical to eat _bucatini_, but I think that also all the large pasta format are good with it, like _paccheri_, _schiaffoni_, _calamarata_ or _conchiglioni_.
 
 &nbsp;
 
