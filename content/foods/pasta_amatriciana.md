@@ -29,8 +29,8 @@ usually for each sauce we have a different format of pasta, with amatriciana sau
 **ingredients** (4 people):
 - **guanciale** (pillow) - 50gr  
   is the result of the processing of the cheek of the pork, or gully or even a specific piece of the neck, tipical, from the region of center Italy, very famous that of [Amatrice](https://en.wikipedia.org/wiki/Amatrice).
-- **onion** - 1 piece  
-  is one of the two starting point of quite all the tipical italian pasta sauce.
+- **shallot** - 1 piece  
+  is similar to an onion, but is more tasty, it's one of the two starting point of quite all the tipical italian pasta sauce.
 - **tomato puree** - 250ml  
   is a typical italian canned product, it allows to have in any moment, the raw materials for a good tomato sauce.
 - **pecorino romano**  
@@ -40,3 +40,12 @@ usually for each sauce we have a different format of pasta, with amatriciana sau
 
 **preparation**:
 
+1. cut the guanciale, usually is cutted it in bricks, but if you want to use less of it, you can cut it very thin (like ham), cutted like this it's more tasty.
+2. cut the shallot very thin
+3. then take just one small piece (a cube of 1cm side) and put it in a hot pam, wait until the fat part becomes transparent/gray (at this moment the fat should melt)
+4. put in the pan all the cutted guanciale and wait that it melts
+5. put the cutted shallot in the pan and brown it
+6. at last put the tomato puree with salt (as much as you like)
+7. put pan of water on the gas and wait until it boil, when it does add the salt and pasta to the water
+8. when the pasta is ready take it with the ladle and put it in the souce pan and mix all
+9. now add pepper and pecorino
