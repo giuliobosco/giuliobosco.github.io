@@ -12,6 +12,15 @@
 			<div>
 				{{ .Content }}
 			</div>
+      <div>
+        {{ range .Param "images" }}
+          <div style="width:30%;float:left;margin-left:0.5%;margin-right:0.5%;">
+            <img src="{{ .Path }}" alt="{{ .Name }}" style="width:100%"><br>
+            {{ .Name }}
+          </div>
+        {{ end }}
+        <div style="clear:both;"></div>
+      </div>
 		</article>
 	</main>
 {{ partial "sidebar.html" . }}

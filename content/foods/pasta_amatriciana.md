@@ -4,6 +4,19 @@ date: 2020-08-04T16:51:32+02:00
 subtitle.sub: "pasta"
 description: "typical pasta dish of centre of italy, with guanciale (pillow), onions, tomato puree"
 weight: 0
+images:
+  - Path: "../bucatini.png"
+    Name: "bucatini" 
+  - Path: "../guanciale.png"
+    Name: "guanciale"
+  - Path: "../scalogno.png"
+    Name: "scalogno"
+  - Path: "../passata.png"
+    Name: "passata di pomodoro (tomato puree)"
+  - Path: "../pecorino.png"
+    Name: "pecorino romano"
+  - Path: "../amatriciana.png"
+    Name: "bucatini all'amatriciana"
 ---
 
 typical pasta dish of centre of italy, with guanciale (pillow), onions, tomato puree  
