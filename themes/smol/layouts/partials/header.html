@@ -10,7 +10,7 @@
 		{{ range . }}
 			{{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
   			{{ $active = or $active (eq .Name $currentPage.Title) }}
-  			{{ $active = or $active (and (eq .Name "education") (eq $currentPage.Section "education")) }}
+  			{{ $active = or $active (and (eq .Name "educations") (eq $currentPage.Section "educations")) }}
   			{{ $active = or $active (and (eq .Name "experiences") (eq $currentPage.Section "experiences")) }}
   			{{ $active = or $active (and (eq .Name "projects") (eq $currentPage.Section "projects")) }}
 			<a class="{{ if $active }}active{{ end }}" href="{{ .URL | relURL }}" title="{{ .Title }}" alt="{{ .Title }}"><b>{{ .Name }}</b></a>.

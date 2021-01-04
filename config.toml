@@ -33,10 +33,10 @@ github = "https://github.com/giuliobosco/"
         weight = 3
 
   [[menu.main]]
-        identifier = "education"
-        name = "education"
+        identifier = "educations"
+        name = "educations"
         title = "start"
-        url = "/education/"
+        url = "/educations/"
         weight = 4
 
 # Footer
