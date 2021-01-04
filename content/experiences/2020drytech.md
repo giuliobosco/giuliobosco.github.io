@@ -6,7 +6,7 @@ date: 2020-08-04T16:51:32+02:00
 weight: 8
 ---
 
-2020 July - current
+2020 July - 2020 December
 
 Company: [Drytech International SA](http://drytech.ch)
 
@@ -16,3 +16,4 @@ Responsability:
 - Understanding of company flows
 - Understanding of SAP Operations
 - Manage SAP Data
+- Support Staff on SAP Operation (Ticino, Basel, Luzern, Bern)
