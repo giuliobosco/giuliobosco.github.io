@@ -1,9 +1,9 @@
 ---
-title: "IT Lead"
+title: "Technical Lead"
 subtitle.sub: "BoMa Idea SA - Part-time"
 description: "giuliobosco.ch/education - Lead of IT for the company Full-Stack Development and Operations"
 date: 2020-08-04T16:51:32+02:00
-weight: 4
+weight: 9
 ---
 
 2019 July - 2020 June

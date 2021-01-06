@@ -17,3 +17,6 @@ Responsability:
 - Understanding of SAP Operations
 - Manage SAP Data
 - Support Staff on SAP Operation (Ticino, Basel, Luzern, Bern)
+
+**Plus**:  
+Written the system for manage a centralized price list, with automation for update SAP price lists, for different regions in different languages and prices.
