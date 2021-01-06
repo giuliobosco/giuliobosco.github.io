@@ -43,30 +43,6 @@ Company: MLT Systems
     </item>
     
     <item>
-      <title>IT Lead</title>
-      <link>http://giuliobosco.github.io/experiences/2019bomaidea/</link>
-      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
-      
-      <guid>http://giuliobosco.github.io/experiences/2019bomaidea/</guid>
-      <description>2019 July - 2020 June
- Full Stack Development
- Frontend (HTML5, CSS3, JS, Angular, React) Backend (Java EE, Python Flask, Python Django, Go, Node.js) Database (MySQL, MongoDB)  Systems Administration
- Data Redundancy UPS System Cooldown System Autonomic Backup Network Administration Unix Server Administration  </description>
-    </item>
-    
-    <item>
-      <title>IT Lead</title>
-      <link>http://giuliobosco.github.io/experiences/2021bomaidea/</link>
-      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
-      
-      <guid>http://giuliobosco.github.io/experiences/2021bomaidea/</guid>
-      <description>2019 July - 2020 June
- Full Stack Development
- Frontend (HTML5, CSS3, JS, Angular, React) Backend (Java EE, Python Flask, Python Django, Go, Node.js) Database (MySQL, MongoDB)  Systems Administration
- Data Redundancy UPS System Cooldown System Autonomic Backup Network Administration Unix Server Administration  </description>
-    </item>
-    
-    <item>
       <title>rowing athlete</title>
       <link>http://giuliobosco.github.io/experiences/2012ccl/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
@@ -75,6 +51,18 @@ Company: MLT Systems
       <description>2012 September - 2019 October
  Started rowing inspired by a cousin in September of 2012 at Club Canottieri Lugano, started in 2014 competition at national level.
  8 years in the rowing team 7 swiss championships 2 bronze medal (at swiss championships)  sculling double 13/14 y/o sculling quad 17/18 y/o   many national medals  </description>
+    </item>
+    
+    <item>
+      <title>Technical Lead</title>
+      <link>http://giuliobosco.github.io/experiences/2019bomaidea/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2019bomaidea/</guid>
+      <description>2019 July - 2020 June
+ Full Stack Development
+ Frontend (HTML5, CSS3, JS, Angular, React) Backend (Java EE, Python Flask, Python Django, Go, Node.js) Database (MySQL, MongoDB)  Systems Administration
+ Data Redundancy UPS System Cooldown System Autonomic Backup Network Administration Unix Server Administration  </description>
     </item>
     
     <item>
@@ -128,7 +116,20 @@ At the end of the intern I was interviewed: Giulio Bosco: Il mio stage al CSCS
       <description>2020 July - 2020 December
 Company: Drytech International SA
  Responsability:
- Understanding of company flows Understanding of SAP Operations Manage SAP Data Support Staff on SAP Operation (Ticino, Basel, Luzern, Bern)  </description>
+ Understanding of company flows Understanding of SAP Operations Manage SAP Data Support Staff on SAP Operation (Ticino, Basel, Luzern, Bern)  Plus:
+Written the system for manage a centralized price list, with automation for update SAP price lists, for different regions in different languages and prices.</description>
+    </item>
+    
+    <item>
+      <title>Technical Lead</title>
+      <link>http://giuliobosco.github.io/experiences/2021bomaidea/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2021bomaidea/</guid>
+      <description>2019 July - 2020 June
+ Full Stack Development
+ Frontend (HTML5, CSS3, JS, Angular, React) Backend (Java EE, Python Flask, Python Django, Go, Node.js) Database (MySQL, MongoDB)  Systems Administration
+ Data Redundancy UPS System Cooldown System Autonomic Backup Network Administration Unix Server Administration  </description>
     </item>
     
   </channel>

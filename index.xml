@@ -29,12 +29,10 @@ Re-design and re-build the communication between Adrduino and the Java backend v
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
       <guid>http://giuliobosco.github.io/educations/samt/</guid>
-      <description>2016 - 2020
-The School of Arts and Jobs Trevano (Scuola Arti e Mestieri di Trevano - SAMT) is the Tecnical High School in Information Technology with general course of studies.
+      <description>The School of Arts and Jobs Trevano (Scuola Arti e Mestieri di Trevano - SAMT) is the Tecnical High School in Information Technology with general course of studies.
 Degree:
  Federal Certificate of Capability (Attestato Federale di capacità - AFC) Professional Maturity Certificate (Maturità Professionale - MP)  School subjects:
- Coding Networking Server Management Project Management  Final project:
-In this kind of school the final technical exam is a project.</description>
+ Coding  Procedurs Algorithms Object Oriented Concurrency Patterns Databases   Operations  UNIX/Linux Server Management Windows Server Management Networking   Project Management  Final project:</description>
     </item>
     
     <item>
@@ -64,13 +62,13 @@ Implementation of the website with multi-language support.</description>
     </item>
     
     <item>
-      <title>rowing coach patent - youth and sport</title>
+      <title>rowing coach patent</title>
       <link>http://giuliobosco.github.io/educations/2020gs/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
       
       <guid>http://giuliobosco.github.io/educations/2020gs/</guid>
-      <description>Course:
- IT DE FR  Rowing coach patent courese, for become an official swiss coach of level 1.
+      <description>Course website IT / DE / FR
+Rowing coach patent courese, for become an official swiss coach of level 1.
 Course overview:
  rowing technique training methodology physical contion navigation rules medical aspects in rowing practice nutritional aspects in sport  </description>
     </item>
@@ -126,30 +124,6 @@ Will install basic development tools and utilities.</description>
     </item>
     
     <item>
-      <title>IT Lead</title>
-      <link>http://giuliobosco.github.io/experiences/2019bomaidea/</link>
-      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
-      
-      <guid>http://giuliobosco.github.io/experiences/2019bomaidea/</guid>
-      <description>2019 July - 2020 June
- Full Stack Development
- Frontend (HTML5, CSS3, JS, Angular, React) Backend (Java EE, Python Flask, Python Django, Go, Node.js) Database (MySQL, MongoDB)  Systems Administration
- Data Redundancy UPS System Cooldown System Autonomic Backup Network Administration Unix Server Administration  </description>
-    </item>
-    
-    <item>
-      <title>IT Lead</title>
-      <link>http://giuliobosco.github.io/experiences/2021bomaidea/</link>
-      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
-      
-      <guid>http://giuliobosco.github.io/experiences/2021bomaidea/</guid>
-      <description>2019 July - 2020 June
- Full Stack Development
- Frontend (HTML5, CSS3, JS, Angular, React) Backend (Java EE, Python Flask, Python Django, Go, Node.js) Database (MySQL, MongoDB)  Systems Administration
- Data Redundancy UPS System Cooldown System Autonomic Backup Network Administration Unix Server Administration  </description>
-    </item>
-    
-    <item>
       <title>lvart.org</title>
       <link>http://giuliobosco.github.io/projects/lvart.org/</link>
       <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
@@ -171,6 +145,18 @@ Discuss with the client the requirements, then design and develop the website.</
       <description>2012 September - 2019 October
  Started rowing inspired by a cousin in September of 2012 at Club Canottieri Lugano, started in 2014 competition at national level.
  8 years in the rowing team 7 swiss championships 2 bronze medal (at swiss championships)  sculling double 13/14 y/o sculling quad 17/18 y/o   many national medals  </description>
+    </item>
+    
+    <item>
+      <title>Technical Lead</title>
+      <link>http://giuliobosco.github.io/experiences/2019bomaidea/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2019bomaidea/</guid>
+      <description>2019 July - 2020 June
+ Full Stack Development
+ Frontend (HTML5, CSS3, JS, Angular, React) Backend (Java EE, Python Flask, Python Django, Go, Node.js) Database (MySQL, MongoDB)  Systems Administration
+ Data Redundancy UPS System Cooldown System Autonomic Backup Network Administration Unix Server Administration  </description>
     </item>
     
     <item>
@@ -268,7 +254,20 @@ First version of the API done, begin develop Mobile APPs.</description>
       <description>2020 July - 2020 December
 Company: Drytech International SA
  Responsability:
- Understanding of company flows Understanding of SAP Operations Manage SAP Data Support Staff on SAP Operation (Ticino, Basel, Luzern, Bern)  </description>
+ Understanding of company flows Understanding of SAP Operations Manage SAP Data Support Staff on SAP Operation (Ticino, Basel, Luzern, Bern)  Plus:
+Written the system for manage a centralized price list, with automation for update SAP price lists, for different regions in different languages and prices.</description>
+    </item>
+    
+    <item>
+      <title>Technical Lead</title>
+      <link>http://giuliobosco.github.io/experiences/2021bomaidea/</link>
+      <pubDate>Tue, 04 Aug 2020 16:51:32 +0200</pubDate>
+      
+      <guid>http://giuliobosco.github.io/experiences/2021bomaidea/</guid>
+      <description>2019 July - 2020 June
+ Full Stack Development
+ Frontend (HTML5, CSS3, JS, Angular, React) Backend (Java EE, Python Flask, Python Django, Go, Node.js) Database (MySQL, MongoDB)  Systems Administration
+ Data Redundancy UPS System Cooldown System Autonomic Backup Network Administration Unix Server Administration  </description>
     </item>
     
     <item>
